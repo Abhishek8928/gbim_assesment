@@ -1,6 +1,6 @@
 import CTA from "./Component/CTA";
 import ExtraAddoOn from "./Component/ExtraAddoOn";
-import FAQ from "./Component/FAQ.JSX";
+import FAQ from "./Component/FAQ.jsx";
 import Features from "./Component/Feature";
 import FeatureRankOverview from "./Component/FeatureRankOverview";
 import HeroWrapper from "./Component/HeroWrapper";
