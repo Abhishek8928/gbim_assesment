@@ -14,11 +14,5 @@ This project is a **simple static landing page** built with **React**. The focus
 
 ### How to View:
 The project is deployed and can be viewed at the following link:  
-**[Insert staging link here]**
+**https://gbim-assesment-22tj.vercel.app/**
 
-### Running Locally:
-To run the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone [repository URL]
